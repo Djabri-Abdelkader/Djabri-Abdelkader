@@ -16,14 +16,14 @@ Multi-source log ingestion (Linux syslog/auditd, Windows Sysmon, Zeek network tr
 #### 2. Log Parser & Threat Intel CLI Tool (Python)
 **A command-line security tool for parsing logs and enriching IOCs with threat intelligence.**
 
-→ [View Repository](https://github.com/yourusername/log-parser-threat-intel)
+→ [View Repository](x/log-parser-threat-intel)
 
 Parses Windows Event XML, syslog, and Zeek logs • Enriches IPs/domains via AbuseIPDB, VirusTotal, and OTX • Outputs structured threat reports.
 
 #### 3. AI-Powered SOC Alert Triage Agent (MCP + Claude)
 **An autonomous AI agent that triages Elastic alerts like a virtual L1 SOC analyst.**
 
-→ [View Repository](https://github.com/yourusername/ai-soc-triage-agent)
+→ [View Repository](x/ai-soc-triage-agent)
 
 Uses MCP server architecture + Claude API • Performs threat intel lookup, WHOIS, and log correlation • Delivers structured triage decisions with reasoning.
 
