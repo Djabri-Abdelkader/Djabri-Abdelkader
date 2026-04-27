@@ -9,7 +9,7 @@
 #### 1. Home SOC Lab (Elastic + Zeek + Sysmon)
 **A fully functional Security Operations Center lab built from scratch on personal hardware.**
 
-→ [View Repository](x/home-soc-lab)
+→ [View Repository](https://github.com/Djabri-Abdelkader/home-soc-lab)
 
 Multi-source log ingestion (Linux syslog/auditd, Windows Sysmon, Zeek network traffic) into Elasticsearch, custom KQL detection rules, and MITRE ATT&CK attack simulations.
 
