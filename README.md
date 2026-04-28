@@ -1,5 +1,5 @@
 # Hi, I'm Djabri Abdelkader Chaker 👋
-> Security Engineer in progress — building real detection systems, not just studying them.
+> Security Engineer | Detection Engineering | Building hands-on SOC & AI-powered security tools.
 
 ---
 
